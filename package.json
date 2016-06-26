@@ -1,0 +1,16 @@
+{
+  "title": "SiteBlocker",
+  "name": "block-sites",
+  "version": "0.0.1",
+  "description": "Blocks sites (duh)",
+  "main": "index.js",
+  "author": "Swanmir",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

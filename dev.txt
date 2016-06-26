@@ -1,0 +1,14 @@
+What's stopping you? 
+  - I'm unfamiliar with the sdk 
+  - And I don't know what my first step is 
+    - My first step is to attach button (done) 
+  - Now I need to figure out how to attach a panel to said button (done) 
+  - What's the difference between contentScriptFile and contentURL 
+    - contentURL is the link for the html file 
+    - contentScriptFile is the javascript file 
+    - important link: https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/panel
+
+- Now what? 
+  - We need to write code for the content script, i suppose 
+  
+  
